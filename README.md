@@ -1,2 +1,2 @@
 # hello-github parthi
-sample github
+sample github parthi
